@@ -1,0 +1,23 @@
+# User Access Management System
+
+## Introduction
+This system allows users to sign up, request access to software, and enables managers to approve or reject these requests. It supports three roles: Employee, Manager, and Admin.
+
+## Features
+- **User Registration & Login**: Employees can register and log in.
+- **Software Management**: Admins can add software applications.
+- **Access Requests**: Employees can request access to software.
+- **Approval Process**: Managers can approve or reject access requests.
+
+## Technologies
+- Java Servlets
+- JSP (JavaServer Pages)
+- PostgreSQL Database
+- Apache Tomcat
+- Maven for build management
+
+## Setup Guide
+
+### 1. Clone the Project
+```bash
+git clone https://github.com/prafulprajapati003/LeucineInternAssignment
